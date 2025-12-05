@@ -37,7 +37,6 @@ I believe in continuous learning and growth. Here are the areas I’m currently 
 ## 📫 Connect & Reach Out
 
 - LinkedIn: [in/tejavardhan-jeenu-522386223](https://www.linkedin.com/in/tejavardhan-jeenu-522386223)  
-- GitHub: [@tejjeenu](https://github.com/tejjeenu)  
 - If you like what you see — or want to collaborate or discuss ideas — feel free to drop a ⭐, open an issue, or just send a message!  
 
 ---
