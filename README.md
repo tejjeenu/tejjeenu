@@ -27,8 +27,6 @@ I'm an AI and Computer Science student at the University of Birmingham, passiona
 - A neat online portfolio / showcase with live demos — so people don’t just read code, they *see it working*
 
 
-## 📫 Want to Connect or Collaborate?
-
-Feel free to explore my GitHub, drop a ⭐ ⭐, open an issue, or just reach out — always happy to collaborate, discuss ideas, or learn together!
+## 📫 Socials
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tejavardhan-jeenu-522386223)
 - Email: jeenu.tej@gmail.com
