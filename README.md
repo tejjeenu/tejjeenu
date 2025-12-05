@@ -2,7 +2,6 @@
 
 I love building ML-powered full-stack apps and I’m always exploring ways to learn, grow and build better.  
 
----
 
 ## 🔧 What I Build, & What I’m Good At
 
@@ -10,7 +9,6 @@ I love building ML-powered full-stack apps and I’m always exploring ways to le
 - 📚 Student-focused utilities — e.g. PDF → extracted notes → Anki-ready flashcard generators (Python + automation).  
 - 💡 ML / data-driven utilities & small experiments — chatbots, data-processing pipelines, simple AI prototypes.  
 
----
 
 ## 🌱 What I’m Working On / Learning / Improving  
 
@@ -20,19 +18,17 @@ I love building ML-powered full-stack apps and I’m always exploring ways to le
 - 🐳 Improving infra and deployment skills — using Docker / containerisation, real databases (PostgreSQL/SupaBase), and proper project setup.  
 - 🔁 Experimenting with **different tech stacks & tools** — backend, frontend, data, ML, integrations — to build versatile and production-ready projects.  
 
----
 
 ## 🚀 What I Want to Build / Try Soon  
 
 - 🧠 ML-powered APIs / services (e.g. intelligent note-taking assistant, data-cleaning + prediction tools)  
 - 📊 Projects that process messy datasets → clean → train → deploy, exposing results via UI or API  
 - 🛠️ Practical productivity / data-processing / automation apps mixing ML + real-world usefulness  
-- 📁 A neat online portfolio / showcase with live demos — so people don’t just read code, they *see it working*  
+- 📁 A neat online portfolio / showcase with live demos — so people don’t just read code, they *see it working*
 
----
 
 ## 📫 Want to Connect or Collaborate?
 
 Feel free to explore my GitHub, drop a ⭐ ⭐, open an issue, or just reach out — always happy to collaborate, discuss ideas, or learn together!
-- GitHub: [github](https://github.com/tejjeenu)
-- Email: [email](jeenu.tej@gmail.com)
+- GitHub: [LinkedIn](https://www.linkedin.com/in/tejavardhan-jeenu-522386223)
+- Email: jeenu.tej@gmail.com
