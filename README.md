@@ -1,4 +1,4 @@
-# 👋 Hey — I’m Tej Jeenu
+# 👋 Hi I’m Tej
 
 I love building ML-powered full-stack apps and I’m always exploring ways to learn, grow and build better.  
 
