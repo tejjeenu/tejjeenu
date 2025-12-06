@@ -3,7 +3,7 @@
 I'm an AI and Computer Science student at the University of Birmingham, passionate about building ML-powered full-stack applications and always exploring new ways to learn, grow, and create.
 
 
-## 🔧 What I Build, & What I’m Good At
+## 🔧 What I've Built
 
 - AI-powered productivity / learning tools — smart to-do apps, habit trackers, study-assistants.  
 - Student-focused utilities — e.g. PDF → extracted notes → Anki-ready flashcard generators (Python + automation).  
@@ -21,7 +21,7 @@ I'm an AI and Computer Science student at the University of Birmingham, passiona
 
 ## 🚀 What I Want to Build / Try Soon  
 
-- ML-powered APIs / services (e.g. intelligent note-taking assistant, data-cleaning + prediction tools)  
+- ML-powered APIs / services (e.g. data-cleaning + prediction tools)  
 - Projects that process messy datasets → clean → train → deploy, exposing results via UI or API  
 - Practical productivity / data-processing / automation apps mixing ML + real-world usefulness  
 - A neat online portfolio / showcase with live demos — so people don’t just read code, they *see it working*
