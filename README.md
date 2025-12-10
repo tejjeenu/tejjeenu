@@ -24,7 +24,6 @@ I'm an AI and Computer Science student at the University of Birmingham, passiona
 - ML-powered APIs / services (e.g. data-cleaning + prediction tools)  
 - Projects that process messy datasets → clean → train → deploy, exposing results via UI or API  
 - Practical productivity / data-processing / automation apps mixing ML + real-world usefulness  
-- A neat online portfolio / showcase with live demos — so people don’t just read code, they *see it working*
 
 
 ## 📫 Socials
