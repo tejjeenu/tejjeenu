@@ -73,8 +73,8 @@ I'm an **AI and Computer Science student at the University of Birmingham**, pass
 
 ---
 
-## 📫 Socials
+## 📫 Sites and Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejavardhan-jeenu-522386223)
 [![Email](https://img.shields.io/badge/Email-jeenu.tej%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeenu.tej@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-5b705.web.app/)
