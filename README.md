@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tej
 
-I'm an **AI and Computer Science student at the University of Birmingham**, passionate about building **ML-powered full-stack applications** and always exploring new ways to learn, grow, and create.
+I'm an **AI and Computer Science student at the University of Birmingham**, passionate about building **AI/ML-powered full-stack applications** and always exploring new ways to learn, grow, and create.
 
 ---
 
